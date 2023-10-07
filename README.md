@@ -9,5 +9,5 @@ supervised learning
 4 ,SupportVectorMachine , 
 5 , KnearestNeighbours , 
 unsupervisedlearning 
-1,Kmeansclustring 
+1,Kmeansclustring \n
 PCA 
